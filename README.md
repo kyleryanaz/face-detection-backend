@@ -1,1 +1,1 @@
-# react-face-detection-backend
+# face-detection-backend
